@@ -1,0 +1,8 @@
+C:\Projetos\Connect_mysql\Connect_mysql\bin\Debug\Connect_mysql.exe.config
+C:\Projetos\Connect_mysql\Connect_mysql\bin\Debug\Connect_mysql.exe
+C:\Projetos\Connect_mysql\Connect_mysql\bin\Debug\Connect_mysql.pdb
+C:\Projetos\Connect_mysql\Connect_mysql\bin\Debug\MySql.Data.dll
+C:\Projetos\Connect_mysql\Connect_mysql\bin\Debug\MySql.Data.xml
+C:\Projetos\Connect_mysql\Connect_mysql\obj\Debug\Connect_mysql.csprojResolveAssemblyReference.cache
+C:\Projetos\Connect_mysql\Connect_mysql\obj\Debug\Connect_mysql.exe
+C:\Projetos\Connect_mysql\Connect_mysql\obj\Debug\Connect_mysql.pdb

@@ -1,0 +1,6 @@
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\bin\Debug\LoadDll.exe.config
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\bin\Debug\LoadDll.exe
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\bin\Debug\LoadDll.pdb
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\obj\Debug\LoadDll.csprojResolveAssemblyReference.cache
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\obj\Debug\LoadDll.exe
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\obj\Debug\LoadDll.pdb

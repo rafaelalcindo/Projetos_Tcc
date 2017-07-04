@@ -1,0 +1,5 @@
+E:\Projetos C\LoadDll\LoadDll\bin\x86\Release\LoadDll.exe.config
+E:\Projetos C\LoadDll\LoadDll\bin\x86\Release\LoadDll.exe
+E:\Projetos C\LoadDll\LoadDll\bin\x86\Release\LoadDll.pdb
+E:\Projetos C\LoadDll\LoadDll\obj\x86\Release\LoadDll.exe
+E:\Projetos C\LoadDll\LoadDll\obj\x86\Release\LoadDll.pdb

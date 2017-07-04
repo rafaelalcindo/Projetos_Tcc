@@ -1,0 +1,5 @@
+C:\Projetos\CallC\CallC\bin\x86\Debug\CallC.exe.config
+C:\Projetos\CallC\CallC\bin\x86\Debug\CallC.exe
+C:\Projetos\CallC\CallC\bin\x86\Debug\CallC.pdb
+C:\Projetos\CallC\CallC\obj\x86\Debug\CallC.exe
+C:\Projetos\CallC\CallC\obj\x86\Debug\CallC.pdb

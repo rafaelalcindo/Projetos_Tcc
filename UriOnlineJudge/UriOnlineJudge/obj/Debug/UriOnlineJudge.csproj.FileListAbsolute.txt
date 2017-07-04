@@ -1,0 +1,6 @@
+C:\Projetos\UriOnlineJudge\UriOnlineJudge\bin\Debug\UriOnlineJudge.exe.config
+C:\Projetos\UriOnlineJudge\UriOnlineJudge\bin\Debug\UriOnlineJudge.exe
+C:\Projetos\UriOnlineJudge\UriOnlineJudge\bin\Debug\UriOnlineJudge.pdb
+C:\Projetos\UriOnlineJudge\UriOnlineJudge\obj\Debug\UriOnlineJudge.csprojResolveAssemblyReference.cache
+C:\Projetos\UriOnlineJudge\UriOnlineJudge\obj\Debug\UriOnlineJudge.exe
+C:\Projetos\UriOnlineJudge\UriOnlineJudge\obj\Debug\UriOnlineJudge.pdb

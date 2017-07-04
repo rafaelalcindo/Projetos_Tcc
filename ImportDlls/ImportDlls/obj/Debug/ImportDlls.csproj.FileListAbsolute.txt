@@ -1,0 +1,6 @@
+C:\Projetos\ImportDlls\ImportDlls\bin\Debug\ImportDlls.exe.config
+C:\Projetos\ImportDlls\ImportDlls\bin\Debug\ImportDlls.exe
+C:\Projetos\ImportDlls\ImportDlls\bin\Debug\ImportDlls.pdb
+C:\Projetos\ImportDlls\ImportDlls\obj\Debug\ImportDlls.exe
+C:\Projetos\ImportDlls\ImportDlls\obj\Debug\ImportDlls.pdb
+C:\Projetos\ImportDlls\ImportDlls\bin\Debug\RGiesecke.DllExport.Metadata.dll

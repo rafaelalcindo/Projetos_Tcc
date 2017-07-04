@@ -1,0 +1,5 @@
+C:\Projetos\sManagedDLL\sManagedDLL\bin\x86\Debug\sManagedDLL.dll
+C:\Projetos\sManagedDLL\sManagedDLL\bin\x86\Debug\sManagedDLL.pdb
+C:\Projetos\sManagedDLL\sManagedDLL\obj\x86\Debug\sManagedDLL.csprojResolveAssemblyReference.cache
+C:\Projetos\sManagedDLL\sManagedDLL\obj\x86\Debug\sManagedDLL.dll
+C:\Projetos\sManagedDLL\sManagedDLL\obj\x86\Debug\sManagedDLL.pdb

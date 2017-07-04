@@ -1,0 +1,6 @@
+C:\Projetos\ImportDlls\LibraryCsharp\bin\Debug\LibraryCsharp.dll
+C:\Projetos\ImportDlls\LibraryCsharp\bin\Debug\LibraryCsharp.pdb
+C:\Projetos\ImportDlls\LibraryCsharp\obj\Debug\LibraryCsharp.dll
+C:\Projetos\ImportDlls\LibraryCsharp\obj\Debug\LibraryCsharp.pdb
+C:\Projetos\ImportDlls\LibraryCsharp\bin\Debug\RGiesecke.DllExport.Metadata.dll
+C:\Projetos\ImportDlls\LibraryCsharp\obj\Debug\LibraryCsharp.csprojResolveAssemblyReference.cache

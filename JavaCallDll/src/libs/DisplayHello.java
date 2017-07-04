@@ -1,0 +1,6 @@
+package libs;
+import com.sun.jna.Library;
+
+public interface DisplayHello extends Library {
+	void DisplayHelloFromDLL();
+}

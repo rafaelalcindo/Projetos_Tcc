@@ -1,0 +1,32 @@
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe.config
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\bin\x86\Debug\LoadDll.pdb
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\obj\x86\Debug\LoadDll.exe
+c:\users\rhuan.chaves.a\documents\visual studio 2015\Projects\LoadDll\LoadDll\obj\x86\Debug\LoadDll.pdb
+E:\Projetos C\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe.config
+E:\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.exe
+E:\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.pdb
+E:\Projetos C\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe
+E:\Projetos C\LoadDll\LoadDll\bin\x86\Debug\LoadDll.pdb
+E:\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.csprojResolveAssemblyReference.cache
+F:\Projetos C\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe.config
+F:\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.exe
+F:\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.pdb
+C:\Users\Rhuan\Documents\Projetos C\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe.config
+C:\Users\Rhuan\Documents\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.exe
+C:\Users\Rhuan\Documents\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.pdb
+C:\Users\Rhuan\Documents\Projetos C\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe
+C:\Users\Rhuan\Documents\Projetos C\LoadDll\LoadDll\bin\x86\Debug\LoadDll.pdb
+C:\Users\Rhuan\Documents\Projetos C\LoadDll\LoadDll\obj\x86\Debug\LoadDll.csprojResolveAssemblyReference.cache
+C:\Users\Rafael02\Downloads\CallbackC\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe.config
+C:\Users\Rafael02\Downloads\CallbackC\LoadDll\LoadDll\obj\x86\Debug\LoadDll.exe
+C:\Users\Rafael02\Downloads\CallbackC\LoadDll\LoadDll\obj\x86\Debug\LoadDll.pdb
+C:\Users\Rafael02\Downloads\CallbackC\LoadDll\LoadDll\bin\x86\Debug\LoadDll.exe
+C:\Users\Rafael02\Downloads\CallbackC\LoadDll\LoadDll\bin\x86\Debug\LoadDll.pdb
+C:\Users\Rafael02\Downloads\CallbackC\LoadDll\LoadDll\obj\x86\Debug\LoadDll.csprojResolveAssemblyReference.cache
+C:\Projetos\CallBackFunctionInt\LoadDll\bin\x86\Debug\LoadDll.exe.config
+C:\Projetos\CallBackFunctionInt\LoadDll\bin\x86\Debug\LoadDll.exe
+C:\Projetos\CallBackFunctionInt\LoadDll\bin\x86\Debug\LoadDll.pdb
+C:\Projetos\CallBackFunctionInt\LoadDll\obj\x86\Debug\LoadDll.exe
+C:\Projetos\CallBackFunctionInt\LoadDll\obj\x86\Debug\LoadDll.pdb
+C:\Projetos\CallBackFunctionInt\LoadDll\obj\x86\Debug\LoadDll.csprojResolveAssemblyReference.cache

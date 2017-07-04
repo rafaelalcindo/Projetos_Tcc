@@ -1,0 +1,5 @@
+C:\Projetos\UriTestes\UriTestes\bin\Debug\UriTestes.exe.config
+C:\Projetos\UriTestes\UriTestes\bin\Debug\UriTestes.exe
+C:\Projetos\UriTestes\UriTestes\bin\Debug\UriTestes.pdb
+C:\Projetos\UriTestes\UriTestes\obj\Debug\UriTestes.exe
+C:\Projetos\UriTestes\UriTestes\obj\Debug\UriTestes.pdb

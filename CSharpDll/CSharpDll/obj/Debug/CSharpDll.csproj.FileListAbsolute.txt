@@ -1,0 +1,5 @@
+C:\Projetos\CSharpDll\CSharpDll\bin\Debug\CSharpDll.dll
+C:\Projetos\CSharpDll\CSharpDll\bin\Debug\CSharpDll.pdb
+C:\Projetos\CSharpDll\CSharpDll\obj\Debug\CSharpDll.csprojResolveAssemblyReference.cache
+C:\Projetos\CSharpDll\CSharpDll\obj\Debug\CSharpDll.dll
+C:\Projetos\CSharpDll\CSharpDll\obj\Debug\CSharpDll.pdb

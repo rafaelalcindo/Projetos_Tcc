@@ -1,0 +1,6 @@
+C:\Projetos\CallC\CallC\bin\Debug\CallC.exe.config
+C:\Projetos\CallC\CallC\bin\Debug\CallC.exe
+C:\Projetos\CallC\CallC\bin\Debug\CallC.pdb
+C:\Projetos\CallC\CallC\obj\Debug\CallC.csprojResolveAssemblyReference.cache
+C:\Projetos\CallC\CallC\obj\Debug\CallC.exe
+C:\Projetos\CallC\CallC\obj\Debug\CallC.pdb

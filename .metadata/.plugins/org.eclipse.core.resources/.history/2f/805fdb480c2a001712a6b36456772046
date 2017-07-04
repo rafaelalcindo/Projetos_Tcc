@@ -1,0 +1,7 @@
+package playDll;
+
+public class anotherWay {
+	try{
+		System.load("C:/Projetos/TestLib/Debug/TestLib.dll");
+	}
+}
